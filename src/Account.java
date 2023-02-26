@@ -3,7 +3,6 @@ public class Account {
     private boolean TBD;
     private int MatchMakingRating;
     private int ID;
-
     public void setPrice(int price) { this.price = price; }
 
     public int getPrice() { return price; }
